@@ -1,2 +1,1 @@
-enter = len(input("Enter your name: "))
-print(enter)
+print(len(input("Enter your name: ")))
