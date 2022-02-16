@@ -1,3 +1,5 @@
+# Blind bids
+
 import os
 import art
 
