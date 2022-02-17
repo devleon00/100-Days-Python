@@ -32,4 +32,4 @@ while should_continue:
     else:   
         should_continue = False
 
-print(f"Wrong! Your're total score was {count}")
+print(f"Wrong! You're total score was {count}")
